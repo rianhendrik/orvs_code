@@ -3,7 +3,7 @@ Welcome to the o(ptimal)-r(abies)-v(accination)-s(chedule) code repository.
 This repository consists of a few R scripts, a Sampling-schemes directory and a Stopping-point-code directory. 
 
 ## *master.R*
-The *master.R* script should be executed first during each session, before any of the other code is executed in R. The master script imports the packages you will need for each of the scripts. You may also execute instances a sampling scheme using the *master.R* script, as it is able to source the *data_preparation.R* and the sampling scheme R scripts in the Sampling-schemes directory.
+The *master.R* script should be executed first during each session, before any of the other code is executed in R. The master script imports the packages you will need for each of the scripts. You may also execute instances of a sampling scheme using the *master.R* script, as it is able to source the *data_preparation.R* and the sampling scheme R scripts in the Sampling-schemes directory.
 Not all of the packages in the *master.R* script are relevant to the scripts in this repository.
 
 ## Sampling-schemes (directory)
