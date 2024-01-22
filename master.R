@@ -15,7 +15,6 @@ exclude_nodoghouses <- T
 tsp_solver <- "cheapest"
 miplot <- 0 #Global parameter for plotting. 0 => no plotting, 1 => plotting.
 
-
 #Set location of your Concorde installation for Concorde TST algorithm.
 
 #Set working directory to the location of this master script.
